@@ -1,0 +1,13 @@
+/Users/cesarpoblador/Projects/Problem2/Problem2/bin/Debug/netcoreapp3.1/Problem2.deps.json
+/Users/cesarpoblador/Projects/Problem2/Problem2/bin/Debug/netcoreapp3.1/Problem2.runtimeconfig.json
+/Users/cesarpoblador/Projects/Problem2/Problem2/bin/Debug/netcoreapp3.1/Problem2.runtimeconfig.dev.json
+/Users/cesarpoblador/Projects/Problem2/Problem2/bin/Debug/netcoreapp3.1/Problem2.dll
+/Users/cesarpoblador/Projects/Problem2/Problem2/bin/Debug/netcoreapp3.1/Problem2.pdb
+/Users/cesarpoblador/Projects/Problem2/Problem2/obj/Debug/netcoreapp3.1/Problem2.csproj.AssemblyReference.cache
+/Users/cesarpoblador/Projects/Problem2/Problem2/obj/Debug/netcoreapp3.1/Problem2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cesarpoblador/Projects/Problem2/Problem2/obj/Debug/netcoreapp3.1/Problem2.AssemblyInfoInputs.cache
+/Users/cesarpoblador/Projects/Problem2/Problem2/obj/Debug/netcoreapp3.1/Problem2.AssemblyInfo.cs
+/Users/cesarpoblador/Projects/Problem2/Problem2/obj/Debug/netcoreapp3.1/Problem2.csproj.CoreCompileInputs.cache
+/Users/cesarpoblador/Projects/Problem2/Problem2/obj/Debug/netcoreapp3.1/Problem2.dll
+/Users/cesarpoblador/Projects/Problem2/Problem2/obj/Debug/netcoreapp3.1/Problem2.pdb
+/Users/cesarpoblador/Projects/Problem2/Problem2/obj/Debug/netcoreapp3.1/Problem2.genruntimeconfig.cache
